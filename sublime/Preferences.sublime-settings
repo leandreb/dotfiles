@@ -1,0 +1,15 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/base16-ocean.light (SL).tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": false,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"theme": "Spacegray Light.sublime-theme",
+	"word_separators": "./\\()\"':,.;<>~@#%^&*|+=[]{}`~?",
+	"word_wrap": "false"
+}

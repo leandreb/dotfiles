@@ -1,0 +1,23 @@
+{
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Better CoffeeScript",
+		"CSScomb",
+		"Dotfiles Syntax Highlighting",
+		"EditorConfig",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"LESS",
+		"Razor",
+		"SCSS",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-coffeelint",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-jshint",
+		"Theme - Spacegray"
+	]
+}
