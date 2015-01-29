@@ -1,4 +1,12 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"All Autocomplete",
@@ -9,6 +17,7 @@
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
 		"LESS",
+		"Package Control",
 		"Razor",
 		"SCSS",
 		"Seti_UI",

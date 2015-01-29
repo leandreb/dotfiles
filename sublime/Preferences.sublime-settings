@@ -2,6 +2,7 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/base16-ocean.light (SL).tmTheme",
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
