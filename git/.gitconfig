@@ -1,17 +1,3 @@
 [user]
-  name = Léandre Brière-Côté
-  email = lbriere-cote@absolunet.com
-
-
-[core]
-  # Use custom `.gitignore` and `.gitattributes`
-  excludesfile = ~/dotfiles/pwen/git/.gitignore
-  attributesfile = ~/dotfiles/pwen/git/.gitattributes
-
-[difftool "sourcetree"]
-	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
-	path =
-
-[mergetool "sourcetree"]
-	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
-	trustExitCode = true
+  name = Léandre Brière
+  email = lbcote@absolunet.com
