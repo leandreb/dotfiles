@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -9,9 +10,14 @@
 		"CSScomb",
 		"Dotfiles Syntax Highlighting",
 		"EditorConfig",
+		"Emmet",
 		"GitGutter",
+		"HTML Mustache",
 		"HTML-CSS-JS Prettify",
+		"JavaScriptNext - ES6 Syntax",
 		"LESS",
+		"Markdown Preview",
+		"MarkdownEditing",
 		"Package Control",
 		"Razor",
 		"SCSS",
