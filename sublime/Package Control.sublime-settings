@@ -6,12 +6,10 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
-		"Better CoffeeScript",
 		"CSScomb",
 		"Dotfiles Syntax Highlighting",
 		"EditorConfig",
 		"Emmet",
-		"GitGutter",
 		"HTML Mustache",
 		"HTML-CSS-JS Prettify",
 		"JavaScriptNext - ES6 Syntax",
